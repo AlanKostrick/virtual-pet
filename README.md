@@ -5,7 +5,6 @@ Create a virtual pet. Bonus points if it becomes a fad!
 ## Setup
 
 - [ ] Create a Java project in Eclipse named `virtual-pet`.
-- [ ] Create a README.md file in your project folder to describe what you've done with your project. No fancy formatting is necessary. Just separate paragraphs with an empty line. (If you'd like to learn more about Markdown formatting, check out the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/).)
 
 
 ## Classes
